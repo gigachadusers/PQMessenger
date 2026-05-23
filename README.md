@@ -215,7 +215,7 @@ pqmessenger.cpp
 
 ## License
 
-MIT License — free to use, modify, and distribute.
+MIT License — free to use, modify, and distribute. (just please give credit to either this repo or mention my telegram username which is @bosslivin)
 
 ---
 
